@@ -1,2 +1,2 @@
-# NTQ-NIO
-Presentation about NIO in NTQ
+# NIO
+Presentation about NIO in Java team
